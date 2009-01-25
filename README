@@ -1,6 +1,6 @@
 = Page Group Rbac Migrator
 
-Requires RbacBaseExtension and PageGroupPermissionsExtension.
+Requires RbacPageEditExtension and PageGroupPermissionsExtension.
 
 This provides a migration to move Groups to Roles and maintain user and page information.
 Once you have migrated, you may remove this extension and migrate down the PageGroupPermissionsExtension.
