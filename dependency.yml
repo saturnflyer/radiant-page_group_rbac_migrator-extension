@@ -1,2 +1,2 @@
-- extension: rbac-base
+- extension: rbac_base
 - extension: rbac_page_edit
